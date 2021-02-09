@@ -12,7 +12,7 @@ const Home = () => {
     {id: 4, value: 'Food the pets'},
   ];
    let tasks =  todo.map(() => {
-       
+
    });
   return (
     <View style={styles.container}>
